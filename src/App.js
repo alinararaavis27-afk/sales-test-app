@@ -411,7 +411,7 @@ const SalesAssessmentApp = () => {
             </div>
             <p style={{fontSize: '12px', color: '#374151', marginBottom: '10px'}}>Леонид Новиков помогает выстраивать процессы от А до Я</p>
             <div style={{display: 'flex', gap: '6px', flexWrap: 'wrap'}}>
-              <a href="https://t.me/sup_novikov" style={{background: 'linear-gradient(135deg, #84cc16, #22c55e)', color: '#fff', padding: '8px 14px', borderRadius: '10px', fontSize: '12px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px'}}>
+              <a href="https://t.me/@sup_novikov" style={{background: 'linear-gradient(135deg, #84cc16, #22c55e)', color: '#fff', padding: '8px 14px', borderRadius: '10px', fontSize: '12px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px'}}>
                 <ExternalLink size={12} /> Консультация
               </a>
               <a href="https://t.me/bettercallLenya" style={{background: 'linear-gradient(135deg, #a855f7, #ec4899)', color: '#fff', padding: '8px 14px', borderRadius: '10px', fontSize: '12px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px'}}>
