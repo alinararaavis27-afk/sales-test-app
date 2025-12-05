@@ -292,10 +292,10 @@ const SalesAssessmentApp = () => {
           <Award size={56} color="#a855f7" style={{margin: '0 auto 16px'}} />
           <h1 style={{fontSize: '22px', fontWeight: 'bold', marginBottom: '8px'}}>Попытки исчерпаны! 🎯</h1>
           <p style={{color: '#6b7280', marginBottom: '16px'}}>Вы использовали обе попытки. Спасибо!</p>
-          <a href="https://t.me/sup_novikov" style={{...styles.button, background: 'linear-gradient(135deg, #84cc16, #22c55e)', color: '#fff'}}>
+          <a href="https://t.me/sup_novikov" target="_blank" rel="noopener noreferrer" style={{...styles.button, background: 'linear-gradient(135deg, #84cc16, #22c55e)', color: '#fff'}}>
             📞 Консультация
           </a>
-          <a href="https://t.me/bettercallLenya" style={{...styles.button, background: 'linear-gradient(135deg, #a855f7, #ec4899)', color: '#fff'}}>
+          <a href="https://t.me/bettercallLenya" target="_blank" rel="noopener noreferrer" style={{...styles.button, background: 'linear-gradient(135deg, #a855f7, #ec4899)', color: '#fff'}}>
             📢 Канал
           </a>
         </div>
@@ -315,10 +315,10 @@ const SalesAssessmentApp = () => {
             <span>Леонид Новиков, адвайзер по продажам</span>
           </div>
           <div style={{display: 'flex', gap: '6px', justifyContent: 'center', marginTop: '8px', flexWrap: 'wrap'}}>
-            <a href="https://t.me/sup_novikov" style={{background: 'linear-gradient(135deg, #84cc16, #22c55e)', color: '#fff', padding: '6px 12px', borderRadius: '12px', fontSize: '11px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px'}}>
+            <a href="https://t.me/sup_novikov" target="_blank" rel="noopener noreferrer" style={{background: 'linear-gradient(135deg, #84cc16, #22c55e)', color: '#fff', padding: '6px 12px', borderRadius: '12px', fontSize: '11px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px', cursor: 'pointer'}}>
               <ExternalLink size={10} /> Консультация
             </a>
-            <a href="https://t.me/bettercallLenya" style={{background: 'linear-gradient(135deg, #a855f7, #ec4899)', color: '#fff', padding: '6px 12px', borderRadius: '12px', fontSize: '11px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px'}}>
+            <a href="https://t.me/bettercallLenya" target="_blank" rel="noopener noreferrer" style={{background: 'linear-gradient(135deg, #a855f7, #ec4899)', color: '#fff', padding: '6px 12px', borderRadius: '12px', fontSize: '11px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px', cursor: 'pointer'}}>
               <ExternalLink size={10} /> Канал
             </a>
           </div>
@@ -411,10 +411,10 @@ const SalesAssessmentApp = () => {
             </div>
             <p style={{fontSize: '12px', color: '#374151', marginBottom: '10px'}}>Леонид Новиков помогает выстраивать процессы от А до Я</p>
             <div style={{display: 'flex', gap: '6px', flexWrap: 'wrap'}}>
-              <a href="https://t.me/@sup_novikov" style={{background: 'linear-gradient(135deg, #84cc16, #22c55e)', color: '#fff', padding: '8px 14px', borderRadius: '10px', fontSize: '12px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px'}}>
+              <a href="https://t.me/sup_novikov" target="_blank" rel="noopener noreferrer" style={{background: 'linear-gradient(135deg, #84cc16, #22c55e)', color: '#fff', padding: '8px 14px', borderRadius: '10px', fontSize: '12px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px', cursor: 'pointer'}}>
                 <ExternalLink size={12} /> Консультация
               </a>
-              <a href="https://t.me/bettercallLenya" style={{background: 'linear-gradient(135deg, #a855f7, #ec4899)', color: '#fff', padding: '8px 14px', borderRadius: '10px', fontSize: '12px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px'}}>
+              <a href="https://t.me/bettercallLenya" target="_blank" rel="noopener noreferrer" style={{background: 'linear-gradient(135deg, #a855f7, #ec4899)', color: '#fff', padding: '8px 14px', borderRadius: '10px', fontSize: '12px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px', cursor: 'pointer'}}>
                 <ExternalLink size={12} /> Канал
               </a>
             </div>
